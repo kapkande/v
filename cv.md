@@ -37,4 +37,4 @@ Once I made a website for myself
 Belarusian State College of Electronics, specialty "Electrical Technician"
 ---
 ## Languages  ##
-English A1 (currently receiving A2)
+> English A1 (currently receiving A2)
