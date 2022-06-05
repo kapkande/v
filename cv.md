@@ -7,8 +7,8 @@
 - Email: kap.kande@gmail.com
 - GitHub: [kapkande](https://github.com/kapkande)
 ---
-## About Me ##
-> I want to change my job and learn something new. I would like to become a frontend developer. It's difficult, but I love difficulties.
+## About Me 
+I want to change my job and learn something new. I would like to become a frontend developer. It's difficult, but I love difficulties.
 ---
 ## Skills ##
 - HTML
