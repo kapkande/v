@@ -31,7 +31,7 @@
 ## Experience ## 
 >I don't have one. 
 Once I made a website for myself
-[myWebsite]{https://kapkande.github.io/3005/}
+[myWebsite](https://kapkande.github.io/3005/)
 ---
 ## Education ##
 > Belarusian State College of Electronics, specialty "Electrical Technician"
