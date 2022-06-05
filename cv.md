@@ -29,12 +29,12 @@ I want to change my job and learn something new. I would like to become a fronte
     </script>
 ---
 ## Experience ## 
-I don't have one. 
+>I don't have one. 
 Once I made a website for myself
 [myWebsite] {https://kapkande.github.io/3005/}
 ---
 ## Education ##
-Belarusian State College of Electronics, specialty "Electrical Technician"
+> Belarusian State College of Electronics, specialty "Electrical Technician"
 ---
 ## Languages  ##
-#### English A1 (currently receiving A2)
+> English A1 (currently receiving A2)
